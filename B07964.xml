@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wonderful and lamentable accident lately happned in the Low Countries, of a maiden through her extreme pride personally deceiued by the deuill, who afterwards ended her life most miserably. And likewise what vntimely end both her parents and her spouse, who was but newly maried, came to.  No lesse admirable then certaine and remarkable, especially that this kingdome of England may hereby take example of this hainous sinne..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07964</idno>
+            <idno type="STC">STC 18507.348</idno>
+            <idno type="STC">ESTC S123613</idno>
+            <idno type="EEBO-CITATION">72799770</idno>
+            <idno type="OCLC">ocm 72799770</idno>
+            <idno type="VID">184112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184112)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2228:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wonderful and lamentable accident lately happned in the Low Countries, of a maiden through her extreme pride personally deceiued by the deuill, who afterwards ended her life most miserably. And likewise what vntimely end both her parents and her spouse, who was but newly maried, came to.  No lesse admirable then certaine and remarkable, especially that this kingdome of England may hereby take example of this hainous sinne..</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Eliot's Court Press?] for Thomas Archer, and are to be sold at his shop in Popes-Head alley, ouer against the signe of the Horse-shooe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer suggested by STC (2nd ed.).</note>
+                  <note>May have been issued separately or as part of: "October 11. Number 2. Two wonderfvl and lamentable accidents herein related ..."</note>
+                  <note>Signatures: C⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Conduct of life --  Early works to 1800.</term>
+               <term>Pride and vanity --  Early works to 1800.</term>
+               <term>Devil.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="owners_bookplate">
+            <pb facs="tcp:184112:1"/>
+            <p>
+               <figure>
+                  <p>EX LIBRIS</p>
+                  <p>FARE FAC</p>
+                  <p>FAIRFAX OF CAMERON</p>
+                  <figDesc>bookplate engraving of Fairfax coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:184112:2" rendition="simple:additions"/>
+            <pb facs="tcp:184112:2" rendition="simple:additions"/>
+            <pb facs="tcp:184112:3"/>
+            <pb facs="tcp:184112:3" rendition="simple:additions"/>
+            <p>A WONDERFVL AND LAMENTABLE ACCI<g ref="char:EOLhyphen"/>dent lately happened in the Low Coun<g ref="char:EOLhyphen"/>tries, of a maiden through her extreme pride <hi>perſonally deceiued by the Deuill, who after<g ref="char:EOLhyphen"/>wards ended her life moſt miſerably.</hi>
+            </p>
+            <p>And likewiſe what vntimely end both her Parents and her Spouſe, who was but newly <hi>maried, came to.</hi>
+            </p>
+            <p>No leſſe admirable then certaine and remarkeable, eſpecially that this Kingdome of <hi>England may hereby take example of this hainous ſinne.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Thomas Archer,</hi> and are to be ſold at his ſhop in Popes-head alley, ouer againſt the ſigne of the Horſe-ſhooe. 1624.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184112:4"/>
+            <pb n="1" facs="tcp:184112:4"/>
+            <head>A pitiful Relation of the miſera<g ref="char:EOLhyphen"/>ble end which a woman made with <hi>her Spouſe to whom ſhee was promiſed,</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is manifeſt that mankinde is of its owne nature wicked and giuen to ill, reiecting all manner of good inſtructi<g ref="char:EOLhyphen"/>ons which are made by the teachers of the Goſpell; and amongſt diuers other vices, wee perceiue by daily experience, that both the rich and poore are bent to pride, although it be repugnant to the holy Scriptures, and forbidden in the ſame. It is true, I muſt confeſſe, that many of vs reade ſome<g ref="char:EOLhyphen"/>times the Scriptures, and harken the Miniſters of the Word of God, with an intention to amend our liues; but alas, we let thoſe inſtructions more com<g ref="char:EOLhyphen"/>monly paſſe through our eares as a wind that com<g ref="char:EOLhyphen"/>meth at the one doore in, and flieth againe out by another doore or window: wee ſee not ſooner a wanton eye, or any other wickedneſſe, but fall a<g ref="char:EOLhyphen"/>gaine to our former ſinne, and thinke no more vpon that which hath bin taught vnto vs. And by reaſon of this it happeneth, that God ſendeth daily many plagues vpon vs, to puniſh our ſinnes, and viſiteth vs eſpecially with warre, peſtilence and famine. Our mortall Enemy, who runneth continually as a roa<g ref="char:EOLhyphen"/>ring
+<pb n="2" facs="tcp:184112:5"/>Lion after vs, knowing our wicked inclinations, and that wee make too much of the fleſh, ſeeketh to bring vs into temptations, hoping thereupon to de<g ref="char:EOLhyphen"/>ſtroy both our bodies and ſoules: and eſpecially he enticeth vs to pride and vaine glorie, which are none of the leſſer ſins, and a net to catch vs. For we obſerue daily, that many which will flie higher then their wings are able to carry them, come not onely to ſhame and diſcredit, but bring their ſoules alſo into great miſeries and vexations; as amongſt other examples may appeare by this following, which happened lately neere the towne of <hi>Hoey</hi> (lying vp<g ref="char:EOLhyphen"/>on the frontiers of <hi>Brabant</hi>) on the perſon of a daughter of one <hi>Aert Claeſſen</hi> an Jnne-keeper, who dwelled without the gate of the ſame towne at the ſigne of the blacke horſe, and had no other children than this daughter, of which he made therefore very much, and ſpared no coſt to adorne her moſt beau<g ref="char:EOLhyphen"/>tifull body with ſuch gay and rich apparell as ſhee required. She then being apparelled farre aboue her fathers eſtate, and ſet forth as if ſhe were an Earles daughter, grew very proud, and deſpiſed all young men and ſuiters that came to ſee her. And it happened afterwards, that both her beautie and ſpightfulneſſe or ſcorne being made knowne to the world by them which had lodged at her fathers houſe, ſome three rich Merchants of <hi>Antwerpe</hi> ta<g ref="char:EOLhyphen"/>king their way towards <hi>Francford,</hi> baited at her fa<g ref="char:EOLhyphen"/>thers houſe. One of them being yet a bachelor, and a very handſome man, was euen at the firſt ſight that he had of her inflamed to loue ſuch a rare beautie:</p>
+            <pb n="3" facs="tcp:184112:5"/>
+            <p>And not long afterwards, hauing at ſeuerall times beene a ſuiter vnto her, he got at laſt her good will, and tooke the fruits of loue vpon great oathes and promiſes made before hand; and went thereupon to her father to get his good liking to the mariage, and ſpoke in this manner: It is now come ſo far be<g ref="char:EOLhyphen"/>twixt your daughter and me, that if it pleaſeth you we ſhall be two ſoules in one bodie: the father li<g ref="char:EOLhyphen"/>king the Merchant very well, ſaid thereupon, None ought to ſeparate them whom God hath conioy<g ref="char:EOLhyphen"/>ned, and therefore if God hath appointed her for you, you ſhall not want my good will; and added moreouer, that if he would, he might in the pre<g ref="char:EOLhyphen"/>ſence of his two friends that came with him, make the ſpouſalls ſure both by hand and mouth: He li<g ref="char:EOLhyphen"/>king this motion very well, tooke preſently a ring with a <hi>Diamond</hi> from his finger, and gaue it to her ſaying, Take my moſt beloued, &amp; receiue my faith<g ref="char:EOLhyphen"/>full promiſe. This being done, her father made a fore-meale of the wedding to feaſt the Bride<g ref="char:EOLhyphen"/>groome (as is vſuall in thoſe parts) and his friends. The other two Merchants hauing daily vrged the Bridegroome to diſpatch his affaires about the wed<g ref="char:EOLhyphen"/>ding, that they might aduance their iourney; he tooke his leaue from his ſpouſe, and went thereup<g ref="char:EOLhyphen"/>on to her father and mother to doe the like, and de<g ref="char:EOLhyphen"/>ſired them that they would take great care both for their daughter and her fruit, if ſhe got any; and promiſed them againe, that at his returne from <hi>Franckford</hi> he would come to them backe againe, with an intention to marrie their daughter, and to
+<pb n="4" facs="tcp:184112:6"/>carrie her afterwards to <hi>Antwerpe.</hi> After his depar<g ref="char:EOLhyphen"/>ture came many ſtrange cogitations in the minde of his deareſt, and conſidered by her ſelfe that if the young Merchant her ſpouſe came not backe againe, that ſhe ſhould be contemned, and blamed all the daies of her life, and that the people would point at her with their fingers and ſay, looke, there ſhe go<g ref="char:EOLhyphen"/>eth who is now paied for her great pride and ſpite<g ref="char:EOLhyphen"/>fulneſſe: But eſpecially ſhee troubled her minde, with theſe and ſuch like cogitations. When ſhe ſaw that the time was expired which he had appointed for his returne, and would not be appeaſed by her Parents, who ſought to comfort her, ſaying, Be of a good minde, doe not miſtruſt your ſpouſe, he is an honeſt man, and will ſurely come backe againe, as ſoone as his affaires will giue him leaue. She grow<g ref="char:EOLhyphen"/>ing then daily more and more deſperate, it happe<g ref="char:EOLhyphen"/>ned that ſhe riſing early on a Munday, put on her beſt apparell, and told to her parents with a ſmiling countenance, that ſhe had but little reſt the night before, and that ſhe conceiued in her firſt ſlumbring, that the Merchant ſhould not come backe againe; but afterwards being againe fallen into a ſlumber, her minde gaue her that ſhee ſhould ſhortly ſee her ſpouſe, and I thinke ſurely that it ſhall happen, and am therefore now reſolued to walke a little abroad to recreate my ſelfe. Going abroad ſhee went to<g ref="char:EOLhyphen"/>wards a wood that lay not farre from her fathers houſe, and eſpied there a young man comming to her with his rapier on his ſide, and ſhe thought that he was her ſpouſe: (But alas ſhe was mightily de<g ref="char:EOLhyphen"/>ceiued,
+<pb n="5" facs="tcp:184112:6" rendition="simple:additions"/>for it was the wicked ſpirit, who appeared vnto her in his ſhape and apparell) and bade him welcome with a cheerefull minde: and receiued thereupon a rich ſcarpe which hee ſaid that hee had brought with him to beſtow vpon her; and deſired thereupon that ſhee would yeeld vnto him her young and delicate bodie, for which he had longed a great while. Shee eaſily yeelding to his ſuit, went hand in hand with him towards the wood (in which ſhee yeelded afterwards the vſe of her bodie vnto him) and proteſted by the way, that in his abſence ſhee had fetcht many heauy groanes for his ſake. But hee not being contented with her body, made her alſo to yeeld her ſoule vnto him; and wrung her head from her necke, (as ſoone as ſhee had granted his requeſt) making the whole wood to tremble and ſhake: and ſo made this poore wretch a moſt miſerable end of her life, being deſtituted of the feare of God, and onely giuen to pride, vanity, and worldly care. The father, and mother, longing for the returne of their daughter, learned afterwards by a ſwineheard what was become of her, for he knew her, and had partly heard and ſeene this miſerable tragedy. They were both at the hearing of this newes much diſcomforted, and the mother fell pre<g ref="char:EOLhyphen"/>ſently into a trance. The next day, the young Mer<g ref="char:EOLhyphen"/>chant comming backe againe found the Parents of his deare beloued in this heauineſſe, and asked them where ſhe was; who told him thereupon as well as they could this Hiſtorie, and told him that for his loues ſake ſhe had beene tempted and murdered by
+<pb n="6" facs="tcp:184112:7" rendition="simple:additions"/>the Deuill: he being full of ſorrow and griefe, went thereupon out of their houſe and hung himſelfe out of a deſperate minde. The Magiſtrate hauing heard that which was hapned, ſent preſently the hangman to fetch the body of the Merchant, and cauſed it to be hanged on a gibbet, as is there the cuſtome of the land. Concerning her body it was buried vnder the gallowes. Her parents died likewiſe within the ſpace of few daies, being not able to beare ſuch a heauy griefe. This example may moue vs to pray to God that he will giue vs better mindes, and preſerue vs from all temptation of the wicked.</p>
+            <byline>Tranſlated according to the Low Dutch copie printed at <hi>Dordrecht</hi> by <hi>Iohn Canin.</hi>
+            </byline>
+            <pb facs="tcp:184112:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
